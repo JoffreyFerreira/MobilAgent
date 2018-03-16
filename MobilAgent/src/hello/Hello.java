@@ -1,4 +1,4 @@
-package jus.aor.mobilagent.hello;
+package hello;
 
 import java.net.URI;
 import java.text.DateFormat;
